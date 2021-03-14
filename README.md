@@ -1,2 +1,2 @@
-# okyelloo.hithub.io
+# okyelloo.github.io
 My portfolio website
